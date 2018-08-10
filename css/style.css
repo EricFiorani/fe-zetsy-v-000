@@ -29,6 +29,7 @@ header {
 h1 {
 	font-size: 5em;
 	margin: 0 0 5px;
+	padding-bottom: 10px;
 }
 
 #logo a {
