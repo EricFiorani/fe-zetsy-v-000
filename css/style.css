@@ -17,6 +17,10 @@ body {
 	padding: 0 45px 20px;
 }
 
+body {
+	background: #f3ebe9;
+}
+
 header {
 	border-bottom: 1px solid rgba(204, 204, 204, 1);
 	display: block;
