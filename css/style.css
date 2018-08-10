@@ -21,6 +21,10 @@ header {
 	border-bottom: line 1px;
 }
 
+h1 {
+	font-size: 5em;
+}
+
 #logo a {
 	color: rgba(153, 173, 166, 1);
 	text-decoration: none;
