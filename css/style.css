@@ -50,7 +50,7 @@ h1 {
 }
 
 #press img:hover {
-	border: 5px #ccc solid;
+	border: 5px rgb(152,173,166) solid;
 }
 
 h2 {
