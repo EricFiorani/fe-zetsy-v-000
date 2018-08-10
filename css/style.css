@@ -21,6 +21,6 @@ header {
 	border-bottom: line 1px;
 }
 
-#logo {
-	color: rgba(153, 173, 166, 0);
+#logo a {
+	color: rgba(153, 173, 166, 1);
 }
