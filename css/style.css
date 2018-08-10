@@ -46,5 +46,10 @@ h1 {
 }
 
 #press img {
-	border: 5px #ccc solid
+	border: 5px #ccc solid;
+}
+
+h2 {
+	color: rgb(111,127,122);
+	font-size: 2em;
 }
