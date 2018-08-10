@@ -36,3 +36,7 @@ h1 {
 	color: rgba(153, 173, 166, 1);
 	text-decoration: none;
 }
+
+#feature-image {
+	display: block;
+}
