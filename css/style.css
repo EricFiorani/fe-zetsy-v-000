@@ -23,4 +23,5 @@ header {
 
 #logo a {
 	color: rgba(153, 173, 166, 1);
+	text-decoration: none;
 }
