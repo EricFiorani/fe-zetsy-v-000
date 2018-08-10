@@ -71,4 +71,5 @@ p a:hover {
 
 footer p {
 	float: right;
+	display: block;
 }
