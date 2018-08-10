@@ -70,6 +70,7 @@ p a:hover {
 }
 
 footer p {
-	float: right;
+	text-align: : right;
 	display: block;
+	font-size: 0.8 em;
 }
