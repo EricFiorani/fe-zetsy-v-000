@@ -75,6 +75,7 @@ p a:hover {
 
 footer {
 	text-align: right;
+	display: block;
 }
 
 .small {
